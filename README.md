@@ -1,54 +1,5 @@
 # useful_stuff
 Memo for my beloved students
-
-### Keyboard's shortcuts (Mac)
-#### Special characters
-```ruby
-{ # alt + (
-} # alt + )
-[ # alt + shift + (
-] # alt + shift + )
-| # alt + shift + l
-~ # alt + n
-\ # alt + /
-```
-
-#### Navigate
-```ruby
-from one program to another                # cmd + tab
-from one window to another (same program)  # cmd + `
-```
-
-#### Sublime Text
-```ruby
-open a file in current project             # cmd + p (or cmd + t)
-move a line upwards in file                # ctrl + cmd + ↑
-move a line downwards in file              # ctrl + cmd + ↓
-(un)comment lines                          # cmd + /
-search in file                             # cmd + f
-search in project                          # cmd + shift + f
-add package                                # cmd + shift + p
-add indentation                            # tab
-remove indentation                         # shift + tab
-move text cursor to next word              # alt + →
-move text cursor to previous word          # alt + ←
-move text cursor to end of line            # cmd + →
-move text cursor to beginning of line      # cmd + ←
-close tab                                  # cmd + w
-reopen last tab closed                     # cmd + shift + t
-```
-
-#### Terminal
-```ruby
-open a new tab                             # cmd + t
-close tab                                  # cmd + w
-clear window (keeping history)             # ctrl + l
-clear window (losing history)              # cmd + k
-reach beginning of line                    # ctrl + a
-reach end of line                          # ctrl + e
-erase the whole line                       # ctrl + u
-```
-
 ### Keyboard's shortcuts (LINUX)
 
 #### Sublime Text
@@ -66,6 +17,8 @@ move text cursor to next word              # alt + →
 move text cursor to previous word          # alt + ←
 close tab                                  # ctrl + w
 reopen last tab closed                     # ctrl + shift + t
+delete a line                              # ctrl + shift + k
+duplicate a line                           # ctrl + shift + d
 ```
 
 #### Terminal
