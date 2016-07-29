@@ -19,6 +19,7 @@ close tab                                  # ctrl + w
 reopen last tab closed                     # ctrl + shift + t
 delete a line                              # ctrl + shift + k
 duplicate a line                           # ctrl + shift + d
+wrap selection with HTML tag               # alt + shift + w
 ```
 
 #### Terminal
