@@ -7,19 +7,21 @@ Memo for my beloved students
 open a file in current project             # ctrl + p
 move a line upwards in file                # ctrl + shift + ↑
 move a line downwards in file              # ctrl + shift + ↓
-(un)comment lines                          # ctrl + shift + :
+(un)comment lines                          # ctrl + shift + /
 search in file                             # ctrl + f
 search in project                          # ctrl + shift + f
 add package                                # ctrl + shift + p
 add indentation                            # tab
 remove indentation                         # shift + tab
-move text cursor to next word              # alt + →
-move text cursor to previous word          # alt + ←
+move text cursor to next word              # alt + → (works with ctrl + →)
+move text cursor to previous word          # alt + ← (works with ctrl + ←)
 close tab                                  # ctrl + w
 reopen last tab closed                     # ctrl + shift + t
 delete a line                              # ctrl + shift + k
 duplicate a line                           # ctrl + shift + d
 wrap selection with HTML tag               # alt + shift + w
+select current (or next line)              # ctrl + L
+duplicate cursor to multiple lines         # select lines - ctrl + shift + L - move cursors
 ```
 
 #### Terminal
